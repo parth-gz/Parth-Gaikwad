@@ -50,9 +50,9 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4">Philosophy</h4>
             <p className="text-muted-foreground italic">
-              "Aaj Kamayenga toh kal baith kar khayenga. Haan meri jaan."
+              "If it works, don't touch it. If it doesn't, pretend it's a feature."
               <br />
-              <span className="text-sm">- Mahatma Gandhi</span>
+          
             </p>
           </div>
         </div>
