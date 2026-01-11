@@ -1,6 +1,6 @@
 import { Download, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import profileImage from "@/assets/profile.jpeg";
+import profileImage from "@/assets/profile.png";
 
 const Hero = () => {
   const scrollToSection = (id: string) => {
@@ -52,7 +52,7 @@ const Hero = () => {
                 className="px-8 py-6 text-lg border-2 hover:bg-primary/10"
                 asChild
               >
-                <a href="https://drive.google.com/file/d/1IjMpvHlm0xxPpCLe90FqDjPKzFlE5xfC/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/15-WlcQBEkr7HRRzoIySNP30gFKxLeG4-/view" target="_blank" rel="noopener noreferrer">
                   <Download className="mr-2 h-5 w-5" />
                   Download Resume
                 </a>
